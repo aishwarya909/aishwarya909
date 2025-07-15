@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm R Aishwarya Prabhu</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Passionate ML and Web Developer</h3>
 
 - 💫 I'm currently pursuing Bachelor's Degree in Information Science
 
